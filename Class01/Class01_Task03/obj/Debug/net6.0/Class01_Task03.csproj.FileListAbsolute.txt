@@ -1,0 +1,15 @@
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\bin\Debug\net6.0\Class01_Task03.exe
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\bin\Debug\net6.0\Class01_Task03.deps.json
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\bin\Debug\net6.0\Class01_Task03.runtimeconfig.json
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\bin\Debug\net6.0\Class01_Task03.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\bin\Debug\net6.0\Class01_Task03.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\Class01_Task03.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\Class01_Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\Class01_Task03.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\Class01_Task03.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\Class01_Task03.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\Class01_Task03.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\refint\Class01_Task03.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\Class01_Task03.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\Class01_Task03.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class01\Class01_Task03\obj\Debug\net6.0\ref\Class01_Task03.dll
