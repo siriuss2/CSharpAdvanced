@@ -1,0 +1,15 @@
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\bin\Debug\net6.0\Class02_PresentationTask.exe
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\bin\Debug\net6.0\Class02_PresentationTask.deps.json
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\bin\Debug\net6.0\Class02_PresentationTask.runtimeconfig.json
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\bin\Debug\net6.0\Class02_PresentationTask.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\bin\Debug\net6.0\Class02_PresentationTask.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\Class02_PresentationTask.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\Class02_PresentationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\Class02_PresentationTask.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\Class02_PresentationTask.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\Class02_PresentationTask.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\Class02_PresentationTask.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\refint\Class02_PresentationTask.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\Class02_PresentationTask.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\Class02_PresentationTask.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced\Class02\Class02_PresentationTask\obj\Debug\net6.0\ref\Class02_PresentationTask.dll
